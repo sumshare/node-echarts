@@ -1,5 +1,6 @@
 # node-echarts
 Generate chart by Echarts in Nodejs.
+后台导出报表新思路
 ### Install
 OS | Command
 ----- | -----
